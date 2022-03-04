@@ -1,3 +1,3 @@
 # ParallelAssignment2
-Assignment repo for Dr. Devchev Parallel Programming Class
+<strong> Assignment repo for Dr. Devchev Parallel Programming Class </strong>
 <p> Made by: Eduardo Bourget </p>
