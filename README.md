@@ -37,7 +37,7 @@ For Part (2), we have 3 options to choose for to implement as our strategy/proto
 
         - This also makes it harder for guests to actually have a chance at peeking inside because since there is a large crowd of people waiting to peek inside, once they try to peek and see its not available they'd have to join a queue of people to randomly have a chance of actually peeking. 
     
-   - 2. Our second strategy, we have that the guests are allowed to place a sign on the door to indicate if the room is available. This would have an AVAILABLE and BUSY name. We have that our guests are responsible of setting this sign to its appropriate place. When entering the room the guest entering is resposible of setting the sign to BUSY and back to AVAILABLE when exiting. 
+   - 2. Our second strategy, we have that the guests are allowed to place a sign on the door to indicate if the room is available. This would have an AVAILABLE and BUSY name. We have that our guests are responsible of setting this sign to its appropriate place. When entering the room the guest entering is resposible of setting the sign to BUSY and back to AVAILABLE when exiting.
 
         - Doing this we ensure that the guests will not bother to "PEEK" onto the showroom to see if its busy in the first place. This in the first place seems like a great improvement over the first strategy since we are getting rid of that extra layer of complexity for our guests.
 
